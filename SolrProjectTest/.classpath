@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/home/harisu/Downloads/solr-4.8.1/dist/solrj-lib/commons-io-2.1.jar"/>
+	<classpathentry kind="lib" path="/home/harisu/Downloads/solr-4.8.1/dist/solrj-lib/httpclient-4.3.1.jar"/>
+	<classpathentry kind="lib" path="/home/harisu/Downloads/solr-4.8.1/dist/solrj-lib/httpcore-4.3.jar"/>
+	<classpathentry kind="lib" path="/home/harisu/Downloads/solr-4.8.1/dist/solrj-lib/httpmime-4.3.1.jar"/>
+	<classpathentry kind="lib" path="/home/harisu/Downloads/solr-4.8.1/dist/solrj-lib/jcl-over-slf4j-1.7.6.jar"/>
+	<classpathentry kind="lib" path="/home/harisu/Downloads/solr-4.8.1/dist/solrj-lib/jul-to-slf4j-1.7.6.jar"/>
+	<classpathentry kind="lib" path="/home/harisu/Downloads/solr-4.8.1/dist/solrj-lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="/home/harisu/Downloads/solr-4.8.1/dist/solrj-lib/noggit-0.5.jar"/>
+	<classpathentry kind="lib" path="/home/harisu/Downloads/solr-4.8.1/dist/solrj-lib/slf4j-api-1.7.6.jar"/>
+	<classpathentry kind="lib" path="/home/harisu/Downloads/solr-4.8.1/dist/solrj-lib/slf4j-log4j12-1.7.6.jar"/>
+	<classpathentry kind="lib" path="/home/harisu/Downloads/solr-4.8.1/dist/solrj-lib/wstx-asl-3.2.7.jar"/>
+	<classpathentry kind="lib" path="/home/harisu/Downloads/solr-4.8.1/dist/solrj-lib/zookeeper-3.4.6.jar"/>
+	<classpathentry kind="lib" path="/home/harisu/Downloads/solr-4.8.1/dist/solr-core-4.8.1.jar"/>
+	<classpathentry kind="lib" path="/home/harisu/Downloads/solr-4.8.1/dist/solr-solrj-4.8.1.jar"/>
+	<classpathentry kind="lib" path="/home/harisu/Documents/tika-app-1.14.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
